@@ -82,7 +82,7 @@ The **HR Analytics Dashboard** provides insights into workforce metrics, helping
 ### 🔹 Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/HR-Analytics-Dashboard.git
+   git clone https://github.com/vidhateshamal2000/HR-ANALYTICS-USING-POWER-BI-SQL-TABLEAU-EXCEL
    ```
 2. Navigate to the project folder:  
    ```bash
@@ -93,7 +93,7 @@ The **HR Analytics Dashboard** provides insights into workforce metrics, helping
 ---
 
 ## 🏆 Contributors  
-- [Shamal Vidhate](https://github.com/your-username)  
+- [Shamal Vidhate]()  
 
 
 
