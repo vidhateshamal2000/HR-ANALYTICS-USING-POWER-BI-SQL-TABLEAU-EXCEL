@@ -84,16 +84,14 @@ The **HR Analytics Dashboard** provides insights into workforce metrics, helping
    ```bash
    git clone https://github.com/vidhateshamal2000/HR-ANALYTICS-USING-POWER-BI-SQL-TABLEAU-EXCEL
    ```
-2. Navigate to the project folder:  
-   ```bash
-   cd HR-Analytics-Dashboard
+
    ```
-3. Open `dashboard.pbix` in Power BI or Tableau for interactive analytics.  
+2. Open `dashboard.pbix` in Power BI or Tableau for interactive analytics.  
 
 ---
 
 ## 🏆 Contributors  
-- [Shamal Vidhate]()  
+- [Shamal Vidhate](https://github.com/vidhateshamal2000)  
 
 
 
